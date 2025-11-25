@@ -6,4 +6,4 @@ langchain-huggingface
 langchain-chroma
 chromadb
 pypdf
-langchain_core
+sentence-transformers
